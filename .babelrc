@@ -1,0 +1,8 @@
+{
+  "sourceMaps": "both",
+  "presets": ["es2015", "react"],
+  "plugins": [
+    "babel-plugin-espower",
+    "babel-plugin-syntax-jsx"
+  ]
+}
